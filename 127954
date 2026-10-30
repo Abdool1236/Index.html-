@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <img src="" alt="">
+    <h1>wellcome to A. S. G scholarship portal</h1>
+    <h2>make sure you are university, college, student</h2>
+    <meta charset="UTF-8">
+    <title>A. S. G SCHOLARSHIP</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <label>First Name:</label>
+                <br><input type="text" name="First Name" placeholder="Enter your First Name">
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <label>Second Name:</label>
+                <br><input type="text" name="second name" placeholder="Enter your Second name">
+            </td>
+        </tr>
+        
+    </table>
+    
+</body>
+</html>
